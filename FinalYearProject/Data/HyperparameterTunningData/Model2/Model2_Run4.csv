@@ -1,0 +1,19 @@
+AcFunc1,AcFunc2,nodes,layers,decrs,mse,time
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,38.0,13.0,0.0,0.13311938503726434,0.68
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,38.0,15.0,0.0,0.1860348743770318,0.74
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,38.0,17.0,0.0,0.19005044665933193,1.4
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,40.0,13.0,0.0,0.2390809424374536,0.71
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,40.0,15.0,0.0,0.1418327360725784,0.72
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,40.0,17.0,0.0,0.17368002348099795,1.41
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,42.0,13.0,0.0,0.2862407891060143,0.68
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,42.0,15.0,0.0,0.16614685579067628,1.39
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,42.0,17.0,0.0,0.1580334226050188,1.4
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,54.0,13.0,0.0,0.15051776382045315,0.77
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,54.0,15.0,0.0,0.30018324135610086,1.4
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,54.0,17.0,0.0,0.15588325220985405,1.4
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,56.0,13.0,0.0,0.13122377448874778,0.8
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,56.0,15.0,0.0,0.15534842268038646,1.39
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,56.0,17.0,0.0,0.22809990669324176,0.91
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,58.0,13.0,0.0,0.16924706788506438,0.8
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,58.0,15.0,0.0,0.22071393492754418,1.39
+<function gelu at 0x7fc20751d830>,<function tanh at 0x7fc20751d9e0>,58.0,17.0,0.0,0.20123349210365618,1.4
